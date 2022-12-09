@@ -10,3 +10,5 @@
 [Laboratory Work #1](https://github.com/Catalin-Tin/PR/blob/main/PR%20LAB%201/main.py)
 
 [Laboratory Work #2](https://github.com/Catalin-Tin/PR/tree/main/PR%20LAB%202)
+
+[Laboratory Work #3](https://github.com/Catalin-Tin/PR/tree/main/PR%20LAB%203)
